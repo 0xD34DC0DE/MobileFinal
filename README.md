@@ -15,3 +15,4 @@ Cependant elle diffère sur certain points:
   
   -La gestion des comptes enfants: Une des limitations de cette application est qu'elle ne gère pas les comptes des enfants d'un parent pour des raisons de complexité.
 
+Pour les instructions d'utilisation il ne suffit qu'à entrer le numero d'assurance social à l'acceuil et l'application s'occupe du reste
